@@ -1,4 +1,4 @@
-#MathWriting-OCR  
+**MathWriting-OCR**  
 
 データセット  
 https://github.com/google-research/google-research/tree/master/mathwriting
