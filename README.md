@@ -1,4 +1,5 @@
-[https://github.com/google-research/google-research/tree/master/mathwriting]
+データセット  
+https://github.com/google-research/google-research/tree/master/mathwriting
 
 実行手順
 データ変換
